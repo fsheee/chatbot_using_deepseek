@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot with Streamlit, Langchain, and DeepSeek
+# 🤖 AI Chatbot with Streamlit, Langchain and DeepSeek
 
 📌 Overview
 
